@@ -1,0 +1,7 @@
+{
+  "name": "SabMilta - The Everything Store",
+  "description": "A premium e-commerce platform inspired by Flipkart, featuring a smart AI assistant powered by Gemini for personalized shopping recommendations and gift ideas.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
